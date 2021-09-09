@@ -6,6 +6,7 @@ header {
 font-size: x-large;
 font-family: sans-serif;
 font-weight: bolder;
-border: rgb(116, 141, 141);
+border-style:solid;
+border-color: rgb(171, 180, 180);
 border-radius: 5px;
 }
