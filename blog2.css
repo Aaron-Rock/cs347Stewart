@@ -1,4 +1,6 @@
-
+body {
+    background-color: seashell;
+}
 #title {
     font-size: x-large;
     font-family: sans-serif;
@@ -8,7 +10,3 @@
     border-radius: 5px;
 }
 
-.percent {
-    font-weight: bold;
-    color: red;
-}
