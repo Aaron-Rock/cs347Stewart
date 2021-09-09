@@ -3,17 +3,17 @@ body {
 }
 
 #title {
-font-size: x-large;
-font-family: sans-serif;
-font-weight: bolder;
-border-style:solid;
-border-color: rgb(171, 180, 180);
-border-radius: 5px;
+    font-size: x-large;
+    font-family: sans-serif;
+    font-weight: bolder;
+    border-style:solid;
+    border-color: rgb(171, 180, 180);
+    border-radius: 5px;
 }
 
-#percent {
+.percent {
     color: red;
     font-weight: bold;
     border-bottom: black;
-    
+
 }
