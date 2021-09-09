@@ -1,9 +1,13 @@
 body {
     background-color: mintcream;
 }
-.Title {
+#Title {
     font-size: 50px;
     font-weight: bolder;
     color:darkgreen;
     font-family: sans-serif;
+}
+#date2 {
+    font-style: italic;
+    color: slategrey;
 }
