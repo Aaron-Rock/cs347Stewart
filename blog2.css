@@ -2,7 +2,7 @@ body {
     background-color: lightcyan;
 }
 
-.title {
+#title {
 font-size: x-large;
 font-family: sans-serif;
 font-weight: bolder;
