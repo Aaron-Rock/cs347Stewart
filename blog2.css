@@ -1,5 +1,7 @@
 #percent {
     color: red;
+    border: royalblue;
+    border-style: solid;
 }
 #title {
     font-size: x-large;
