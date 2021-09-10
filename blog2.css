@@ -1,12 +1,14 @@
 body {
     background-color: silver;
 }
+
+
 #percent {
     color: red;
     border: royalblue;
     border-style: solid;
 }
-body header {
+#title {
     font-size: x-large;
     font-family: sans-serif;
     font-weight: bolder;
