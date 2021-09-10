@@ -10,8 +10,9 @@ body {
     border-radius: 5px;
 }
 
-p span {
+p .percent {
     font-family: sans-serif;
     color: red;
+    
 }
 
