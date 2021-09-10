@@ -6,7 +6,7 @@ body {
     border: royalblue;
     border-style: solid;
 }
-#title {
+header {
     font-size: x-large;
     font-family: sans-serif;
     font-weight: bolder;
