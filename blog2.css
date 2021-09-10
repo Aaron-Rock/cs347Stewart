@@ -3,7 +3,7 @@ body {
 }
 
 p {
-    margin-right: 100px;
+    margin-right: 800px;
 }
 .percent {
     color: red;
@@ -20,5 +20,6 @@ p {
     border-style:solid;
     border-color: rgb(171, 180, 180);
     border-radius: 5px;
+    
 }
 
