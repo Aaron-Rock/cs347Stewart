@@ -10,3 +10,8 @@ body {
     border-radius: 5px;
 }
 
+p span {
+    font-family: sans-serif;
+    color: red;
+}
+
