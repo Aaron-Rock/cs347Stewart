@@ -1,4 +1,6 @@
-
+.percent {
+    color: red;
+}
 #title {
     font-size: x-large;
     font-family: sans-serif;
@@ -6,11 +8,5 @@
     border-style:solid;
     border-color: rgb(171, 180, 180);
     border-radius: 5px;
-}
-
-p {
-    font-family: sans-serif;
-    color: red;
-    
 }
 
