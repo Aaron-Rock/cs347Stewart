@@ -2,7 +2,9 @@ body {
     background-color: silver;
 }
 
-
+p {
+    margin-right: 10px;
+}
 .percent {
     color: red;
     border: royalblue;
