@@ -3,7 +3,7 @@ body {
 }
 
 
-#percent {
+.percent {
     color: red;
     border: royalblue;
     border-style: solid;
