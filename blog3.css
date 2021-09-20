@@ -16,7 +16,7 @@ h1 {
     color: grey;
     font-size: 15px;
     font-weight: lighter;
-    align-self: flex-end;
+    align-self: flex-start;
     border: solid red 2px;
 }
 
