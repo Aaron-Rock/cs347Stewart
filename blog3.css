@@ -11,6 +11,16 @@ h1 {
     color: rgb(196, 186, 173);
 }
 
+h3 {
+    display: flex;
+    color: grey;
+    font-size: 5px;
+    font-weight: lighter;
+    align-self: flex-end;
+    justify-content: flex-end;
+    
+}
+
 p {
     width: 700px;
 }
