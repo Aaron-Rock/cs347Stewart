@@ -1,6 +1,7 @@
 .container {
     display: flex;
     justify-content: center;
+    flex-direction: row;
     align-items: center;
     background-color: beige;
     border: 6px rgb(201, 176, 133) solid;
@@ -16,7 +17,7 @@ h1 {
     color: grey;
     font-size: 15px;
     font-weight: lighter;
-    align-self: flex-start;
+    align-self: flex-end;
     border: solid red 2px;
 }
 
