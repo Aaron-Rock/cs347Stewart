@@ -14,11 +14,11 @@ h1 {
 h3 {
     display: flex;
     color: grey;
-    font-size: 5px;
+    font-size: 15px;
     font-weight: lighter;
     align-self: flex-end;
     justify-content: flex-end;
-    
+    border: solid red 2px;
 }
 
 p {
