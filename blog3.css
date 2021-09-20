@@ -3,6 +3,7 @@ header {
     justify-content: center;
     align-items: center;
     font-weight: bold;
+    border: 1px red solid;
 }
 
 p {
