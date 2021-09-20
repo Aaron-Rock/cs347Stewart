@@ -12,14 +12,7 @@ h1 {
     color: rgb(196, 186, 173);
 }
 
-.link {
-    
-    color: grey;
-    font-size: 15px;
-    font-weight: lighter;
-    align-self: flex-end;
-    border: solid red 2px;
-}
+
 
 p {
     width: 700px;
