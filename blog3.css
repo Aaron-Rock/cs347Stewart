@@ -2,7 +2,7 @@
     display: flex;
     justify-content: center;
     flex-direction: row;
-    align-items: center;
+    align-items: flex-start;
     background-color: beige;
     border: 6px rgb(201, 176, 133) solid;
 }
