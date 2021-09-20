@@ -2,8 +2,8 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    
-    border: 1px red solid;
+    background-color: beige;
+    border: 6px rgb(201, 176, 133) solid;
 }
 
 h1 {
@@ -11,5 +11,5 @@ h1 {
 }
 
 p {
-    width: 500px;
+    width: 700px;
 }
