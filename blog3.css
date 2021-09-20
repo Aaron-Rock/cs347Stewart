@@ -6,6 +6,9 @@
     background-color: beige;
     border: 6px rgb(201, 176, 133) solid;
 }
+body {
+    background-color: azure;
+}
 
 h1 {
     font-weight: bold;
