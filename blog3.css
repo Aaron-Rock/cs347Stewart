@@ -6,6 +6,10 @@
     background-color: beige;
     border: 6px rgb(201, 176, 133) solid;
 }
+.text {
+    display: flex;
+    flex-direction: column;
+}
 body {
     background-color: azure;
 }
