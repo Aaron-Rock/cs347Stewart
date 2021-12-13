@@ -1,0 +1,23 @@
+
+header {
+    display: flexbox;
+    font-weight: bolder;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 40px;
+    width: 100ch;
+    height: 10vh;
+    color: gold;
+    background-color: blueviolet;
+    align-self: center;
+    
+}
+
+p {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 30px;
+}
+.fname {
+    font-family: cursive;
+    font-size: 40px;
+    font-weight: bolder;
+}
